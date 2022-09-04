@@ -1,0 +1,85 @@
+
+.Text-berjalan{
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://source.unsplash.com/2000x800');
+
+    /* Black : #000000 */
+    color: #fff; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Text-berjalan h1{
+    font-size: 60px;
+    font-weight: 400;
+    text-align: center;
+}
+
+
+.navbar-brand .gede{
+    font: url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+}
+
+#header {
+    background-color: #c33131;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#tengah {
+    background-color: #d77777;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#bawah {
+    background-color: #930606;
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#highlighted-kategori {
+    height: 250px;
+}
+
+#kategori-motor {
+    background-size: cover;
+    background-position: center;
+}
+
+#kategori-makanan {
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-produk {
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://source.unsplash.com/2000x800');
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
